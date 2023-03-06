@@ -1,0 +1,15 @@
+{
+  "name": "sjs-benchmark-ex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "bench": "tsc && node ./index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "snarkyjs": "^0.8.0"
+  }
+}
